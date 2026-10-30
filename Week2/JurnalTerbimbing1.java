@@ -2,10 +2,10 @@ public class JurnalTerbimbing1 {
 	public static void main(String[] args) {
 		String nama = "Viryan Kusaladhamma Putra";
 		int umur = 18;
-		String nik = "5102050901080003";
+		String nik = "##########";
 		String tempatLahir = "Denpasar";
-		String tanggalLahir = "9 Januari 2008";
-		String alamat = "JL Pulau Batam No.26 Tabanan";
+		String tanggalLahir = "2008";
+		String alamat = "JL ###############";
 		String statusPerkawinan = "Belum Kawin";
 		String rt = "0";
 		String rw = "0";
